@@ -1,6 +1,6 @@
 # Eder Souza :zap:
 
-*#Orgulhor em Pertencer*
+*#Orgulho em Pertencer* VIVO :purple_heart:
 
 # Entrega dos desafios Python bootcamp Vivo na Dio 
 
