@@ -12,7 +12,7 @@
 
 *#Orgulho em Pertencer* / VIVO :purple_heart:
 
- ### Graduado em ADS e cursando Engenharia de Software.
+ ### Graduado em ADS e cursando Engenharia da Computação.
 ##
 
 ## Conhecimentos em algumas linguagens de Marcação:
